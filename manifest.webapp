@@ -1,23 +1,23 @@
 {
   "version": "1.0.0",
-  "name": "survavior",
-  "description": "Simple example of a to-do list",
+  "name": "Survavior",
+  "description": "Under water survival game",
   "type": "web",
-  "launch_path": "/Kaisurvivor-",
+  "launch_path": "/Survivor",
   "icons": {
-    "56": "/assets/icons/kaios_56.png",
-    "112": "/assets/icons/kaios_112.png",
-	"128": "/assets/icons/kaios_128.png"
+    "32": "/assets/icons/Survivor_32.png",
+    "56": "/assets/icons/Survivor_56.png",
+	"112": "/assets/icons/Survivor_112.png"
   },
   "developer": {
-    "name": "KaiOS Team",
-    "url": "https://www.kaiostech.com"
+    "name": "Survavior",
+    "url": "koolgames27@gmail.com"
   },
   "locales": {
     "en-US": {
-      "name": "My first Vanilla App for KaiOS",
-      "subtitle": "Simple example of a to-do list",
-      "description": "Simple example of a to-do list"
+      "name": "Survavior",
+      "subtitle": "Under water survival game",
+      "description": "Under water survival game"
     }
   },
   "default_locale": "en-US"
