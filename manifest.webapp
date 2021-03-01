@@ -6,8 +6,8 @@
 "fullscreen": "true",
   "launch_path": "/Survivor",
   "icons": {
-    "56": "/Survivor_56.png",
-    "112": "/Survivor_112.png"
+    "56": "/Survivor/assets/icons/Survivor_56.png",
+    "112": "/Survivor/assets/icons/Survivor_112.png"
   },
   "developer": {
     "name": "Vivid Studio",
