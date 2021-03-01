@@ -4,6 +4,10 @@
   "description": "Help the robot to get to the surface of the sea, avoid all obstacles and deadly fishes, and collect as many diamonds as you can, use powerups to speed up you jumps.",
   "type": "web",
 "fullscreen": "true",
+"Permissions": {
+"mobiledata":{},
+"wifidata":{}
+},
   "launch_path": "/Survivor",
   "icons": {
     "56": "/Survivor/assets/icons/Survivor_56.png",
