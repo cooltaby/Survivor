@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Survavior",
   "description": "Help the robot to get to the surface of the sea, avoid all obstacles and deadly fishes, and collect as many diamonds as you can, use powerups to speed up you jumps.",
   "type": "web",
+"fullscreen": "true",
   "launch_path": "/Survivor",
   "icons": {
-    "32": "/assets/icons/Survivor_32.png",
     "56": "/assets/icons/Survivor_56.png",
-	"112": "/assets/icons/Survivor_112.png"
+    "112": "/assets/icons/Survivor_112.png"
   },
   "developer": {
-    "name": "Survavior",
+    "name": "Vivid Studio",
     "url": "koolgames27@gmail.com"
   },
   "locales": {
@@ -21,4 +21,5 @@
     }
   },
   "default_locale": "en-US"
+	
 }
