@@ -1,5 +1,5 @@
 var PublisherID = "e036a071-a45d-49d6-bff8-3bcb46ca039c";
-	var AppName = "Survivor";
+	var AppName = "yourAppName";
 	var SlotName = "yourSlotName";
 	
 function CallAds()

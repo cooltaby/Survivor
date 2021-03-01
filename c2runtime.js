@@ -28209,17 +28209,17 @@ cr.behaviors.jumpthru = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Spritefont2,
-	cr.plugins_.Sprite,
-	cr.plugins_.Touch,
-	cr.plugins_.TiledBg,
-	cr.plugins_.WebStorage,
 	cr.plugins_.admob,
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.gamepad,
-	cr.plugins_.Particles,
 	cr.plugins_.Keyboard,
+	cr.plugins_.Particles,
+	cr.plugins_.Spritefont2,
+	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
+	cr.plugins_.TiledBg,
+	cr.plugins_.WebStorage,
 	cr.plugins_.ValerypopoffJSPlugin,
 	cr.behaviors.Platform,
 	cr.behaviors.jumpthru,
@@ -28314,12 +28314,11 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Particles.prototype.cnds.CompareY,
 	cr.plugins_.ValerypopoffJSPlugin.prototype.cnds.AllScriptsLoaded,
 	cr.plugins_.ValerypopoffJSPlugin.prototype.acts.InitAlias,
-	cr.plugins_.Audio.prototype.acts.SetMasterVolume,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
+	cr.plugins_.Audio.prototype.acts.SetMasterVolume,
 	cr.plugins_.WebStorage.prototype.acts.RemoveLocal,
 	cr.plugins_.Browser.prototype.cnds.OnBackButton,
 	cr.plugins_.Browser.prototype.acts.Close,
 	cr.behaviors.Pin.prototype.acts.Pin,
 	cr.plugins_.Sprite.prototype.acts.SetPos
 ];};
-
