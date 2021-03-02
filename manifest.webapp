@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "name": "Survavior",
+  "name": "Survivor",
   "description": "Help the robot to get to the surface of the sea, avoid all obstacles and deadly fishes, and collect as many diamonds as you can, use powerups to speed up you jumps.",
   "type": "web",
 "fullscreen": "true",
@@ -19,7 +19,7 @@
   },
   "locales": {
     "en-US": {
-      "name": "Survavior",
+      "name": "Survivor",
       "subtitle": "Under water survival game",
       "description": "Help the robot to get to the surface of the sea, avoid all obstacles and deadly fishes, and collect as many diamonds as you can, use powerups to speed up you jumps."
     }
